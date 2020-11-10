@@ -1,1 +1,1 @@
-# Quizz Platform
+# Quizz Program
