@@ -1,1 +1,1 @@
-# Quizz Program
+# Quizz Game
