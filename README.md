@@ -1,1 +1,1 @@
-# Quizz
+# Quizz Platform
